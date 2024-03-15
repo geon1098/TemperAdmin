@@ -9,6 +9,8 @@
 병원의 냉장고 UI는 카메라를 통해 이미지를 캡쳐하면, 이를 통해 온도는 1시간 59분마다 09:00, 13:00, 17:00 중<br>
 1시간 59분안에 가장 가까운 시간대에 반영됩니다.
 
+# 프로젝트 기간 (02-11~   )
+
 # 사용 기술
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
