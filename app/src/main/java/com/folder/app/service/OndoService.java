@@ -43,7 +43,7 @@ public class OndoService {
     public Ondo addOndoWithIdForDateAndTime(Ondo ondo) {
         ondo.setIdForDateAndTime(); // ID 설정 호출 추가
 
-        System.out.println("시발이거 안되는데");
+        System.out.println("잘됨");
         return ondoRepository.save(ondo);
     }
 }
